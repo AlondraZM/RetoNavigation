@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Alondra/BottomNavYPasoDeArgumentos-master/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Alondra/BottomNavYPasoDeArgumentos-master/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Alondra/BottomNavYPasoDeArgumentos-master/app/src/main/res/layout/fragment_results.xml" value="0.1796875" />
+        <entry key="..\:/Alondra/BottomNavYPasoDeArgumentos-master/app/src/main/res/layout/fragment_test.xml" value="0.1796875" />
+        <entry key="..\:/Alondra/BottomNavYPasoDeArgumentos-master/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1796875" />
         <entry key="..\:/Users/Chilo/Documents/FormularioNavogation/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/Chilo/Documents/FormularioNavogation/app/src/main/res/layout/fragment_results.xml" value="0.19746376811594202" />
         <entry key="..\:/Users/Chilo/Documents/FormularioNavogation/app/src/main/res/layout/fragment_test.xml" value="0.19746376811594202" />
